@@ -1,0 +1,51 @@
+/****encabezado***/
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: left ;
+}
+.image{
+    background-image: url(../img/amanecer\ rd.jpg) ;
+    background-size:cover ;
+    }
+#FotoFondo{
+    height: 400px;
+    width: 800px;
+}
+h1 {
+    color:blue ;
+        margin: 0 ; 
+        padding: 0 ;
+        text-align: center;
+        background-color: antiquewhite;
+        }
+    #Mifoto {
+         margin: auto ; 
+         display: flex ; 
+    }
+   /*****seccion datos****/
+h2 {
+    color: blue ;
+    margin: 0px ;
+    padding: 0px ;
+    background-color: antiquewhite;
+}
+span {
+    font-weight: bold;
+}
+/****seccion formacion****/
+h2 {
+    color: blue;
+    margin: 0px ;
+    padding: 0px ;
+}
+/***seccion experiencia***/
+h2 {
+    color: blue;
+    margin: 0px ;
+    padding: 0px ;
+}
+/***footer****/
+footer {
+    text-align: center;
+    background-color: antiquewhite;
+}
